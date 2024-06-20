@@ -1,19 +1,8 @@
-## Weather Application in ReactJS
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## API I'm using for weather
-- openweathermap api
+Currently, two official plugins are available:
 
-## Requirements
-
-- Node and npm or yarn
-
-## Installation
-
-- Clone the repo
-- Install dependencies: `npm install` or `yarn install`
-
-##  How to get started!
-
- - run `npm start` or `yarn start` from the home directory.
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
